@@ -3,3 +3,7 @@ jupyter
 pandas
 numpy
 ydata_profiling
+seaborn
+matplotlib
+pathlib
+plotly
