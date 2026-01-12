@@ -20,6 +20,8 @@ Site identifiers (State, County, City, Site ID)
 
 Geolocation fields (latitude, longitude)
 
+NEW: Additional for the 2nd iteration of this project, I've added in US population and economic profiling 2010-2019 at county-level at the ML stage, to determine any relationships between pollution and the human activity in that area. This is also sourced from Kaggle - <https://www.kaggle.com/datasets/mexwell/us-country-demographics>. While the data is not identical in its timeframe, I am making the assumption that there would have been no major changes OVERALL 2017-2019 that would invalidate the analysis.
+
 ## Business Requirements
 
 The business requirements for the project are as follows:
